@@ -1,5 +1,5 @@
 import './App.css';
-import LoginFormContainer from './components/containers/LoginFormContainer';
+import LoginFormContainer from './components/container/LoginFormContainer';
 
 function AppReduxSaga() {
   return (
